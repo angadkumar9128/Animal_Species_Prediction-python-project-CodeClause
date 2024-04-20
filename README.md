@@ -19,3 +19,30 @@ Users have the flexibility to fine-tune and customize the prediction models acco
 Comprehensive documentation and example scripts are provided to assist users in understanding and utilizing the prediction system effectively.
 
 With its powerful capabilities and versatility, the Animal Species Prediction project empowers researchers, conservationists, and wildlife enthusiasts to make informed decisions and contribute to the understanding and protection of animal species worldwide.
+
+# Installation
+# Clone the repository:
+git clone https://github.com/your_username/Animal_Species_Prediction.git
+# Install dependencies:
+1. cd Animal_Species_Prediction
+2. pip install -r requirements.txt
+3. Download pre-trained models (if required) and place them in the appropriate directory.
+4. Run the example scripts or integrate the prediction functionality into your own Python projects.
+# Usage
+1. Upload an image containing an animal to the provided interface.
+2. View the prediction results showing the predicted species and confidence score.
+3. Customize and fine-tune the prediction models according to specific requirements or target species.
+# Documentation
+Detailed documentation can be found here, including information on system architecture, usage instructions, and customization options.
+
+# Contributing
+Contributions are welcome! Please refer to the contribution guidelines for more information.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Acknowledgments
+Special thanks to jaya kumari for their contributions to this project.
+This project was inspired by ML world.
+# Support
+For any questions or issues, please open an issue on GitHub.
