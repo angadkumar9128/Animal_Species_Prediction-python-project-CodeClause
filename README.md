@@ -22,7 +22,7 @@ With its powerful capabilities and versatility, the Animal Species Prediction pr
 
 # Installation
 # Clone the repository:
-git clone https://github.com/your_username/Animal_Species_Prediction.git
+git clone https://github.com/angadkumar9128/Animal_Species_Prediction.git
 # Install dependencies:
 1. cd Animal_Species_Prediction
 2. pip install -r requirements.txt
@@ -43,6 +43,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # Acknowledgments
 Special thanks to jaya kumari for their contributions to this project.
-This project was inspired by ML world.
+This project was inspired by ML Science
 # Support
 For any questions or issues, please open an issue on GitHub.
